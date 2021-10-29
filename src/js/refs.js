@@ -1,5 +1,4 @@
 export default {
-  inputRef: document.querySelector('.input'),
-  containerRef: document.querySelector('.container'),
-  countriesListRef: document.querySelector('.countries-list'),
+  inputRef: document.querySelector('input'),
+  boxCardRef: document.querySelector('.box-card'),
 };

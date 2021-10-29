@@ -1,0 +1,52 @@
+body {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.04em;
+  background-color: rgb(58, 75, 94);
+  color: aliceblue;
+}
+
+.main-container {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.label {
+  display: flex;
+  padding-top: 20px;
+}
+
+.input {
+  margin-top: 10px;
+  width: 50%;
+  border: 1px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.15;
+  padding: 10px 10px;
+}
+
+.wrapper {
+  text-align: left;
+  display: flex;
+}
+
+.discription {
+  margin-right: 30px;
+}
+
+.title-card {
+  font-family: 'Lobster', cursive;
+  font-size: 44px;
+  line-height: 1.71;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+
+.flag-img {
+  width: 510px;
+  height: 510px;
+}
+
